@@ -53,7 +53,7 @@ How to use it
 -------------
 it' really easy. I suppose we only need to preview one file when we wanna preview markdowns. etc for `test.md`, you just enter:
 ```
-:InstantMarkdownPreview
+:InstantMarkdownRestart
 ```
 if you switch to another buffer, the html of previewing will be the `test.md`, if you wanna preview a new markdown file, you jsust need to enter this command again.
 
